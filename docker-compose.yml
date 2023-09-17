@@ -7,3 +7,5 @@ services:
     volumes:
       - .:/usr/app:cached
     working_dir: /usr/app
+    ports:
+      - "3000:3000"
