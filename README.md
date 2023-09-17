@@ -1,2 +1,3 @@
-# rails
-Learning Ruby on Rails
+# Learning Ruby on Rails
+
+https://rubyonrails.org/
